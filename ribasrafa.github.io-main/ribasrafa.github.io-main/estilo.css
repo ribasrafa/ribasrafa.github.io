@@ -1,0 +1,23 @@
+ul {
+    list-style-type: none;
+}
+
+li{
+    display: inline;
+    padding: 1rem;
+}
+
+body{
+    background-color: #FFA6C1;
+    font-family: 'Garamond', Serif;
+    text-align: center;
+}
+
+a{
+    color: #FF5D8F;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FADDE1;
+}
