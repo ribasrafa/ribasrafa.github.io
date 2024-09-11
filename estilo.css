@@ -27,5 +27,19 @@ img{
 }
 
 .galeria img{
-    width: 200px;
+    width: 300px;
+}
+
+.biografia img{
+    width: 230px;
+}
+
+.biografia {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+}
+
+.biografia p {
+    max-width: 80%;
 }
