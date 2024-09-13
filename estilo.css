@@ -43,3 +43,8 @@ img{
 .biografia p {
     max-width: 80%;
 }
+
+.item-projeto p {
+    text-align: left;
+    margin-left: 40%;
+}
